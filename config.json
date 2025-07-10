@@ -1,0 +1,9 @@
+{
+    "bottles": {
+        "example_app": {
+            "name": "example_app",
+            "executable": "e.exe",
+            "plugged": false
+        }
+    }
+}
